@@ -1,0 +1,12 @@
+困于算法之中
+TRAPPED IN THE ALGORITHM
+
+交互生成艺术 / 摄像头、实时字符系统、物理模拟
+
+身体移动，字符回应。重复的动作逐渐成为通道，旧有轨迹随后转为牵引；当观众试图改变方向，过去的痕迹仍在施力。挣扎让字符撕裂，边界随累积的互动逐渐收紧。停下之后，记忆缓慢消退。
+
+作品借助一个具有历史记忆的交互系统，追问：当算法根据过去理解我们，当下的我们如何获得改变的空间？
+
+Move before the camera. Repeated gestures become paths; those paths gradually become forces. When movement changes, earlier traces continue to pull. Struggle tears the characters apart as accumulated interaction tightens the digital boundary. After movement stops, memory fades slowly.
+
+Through an interactive system with a memory of past gestures, the work asks: when algorithms interpret us through our past, what space remains for us to change?
